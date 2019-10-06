@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    background-color: rgb(247, 150, 33);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#titulo{
+    color:  rgb(247, 150, 33);
+}
+
+#back {
+    display: inline;
+    
+}
+
+#serv{
+    background-color: rgb(236, 197, 148);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.btn{
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.parceiros {
+    background-color: rgb(173, 170, 170);
+    color: white;
+}
+
+.fundo {
+    background: rgb(236, 197, 148);
+    padding-top: -100px;
+    margin-top: 50px;
+}
+
+.card {
+    display: inline-block;
+    text-align: center;
+    margin: 70px;
+}
+
+.navbar {
+    background-color: rgb(236, 197, 148);
+}
+
+.quem-somos{
+    background-color: rgb(247, 150, 33);
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.titulo__1 {
+    margin-top: 20px;
+}
